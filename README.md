@@ -1,2 +1,3 @@
-# NewcoodingBot
-new repo
+# cats vs dogs classification
+
+cats vs dogs classification using cnn
